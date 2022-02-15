@@ -1,4 +1,4 @@
 function f() {
-    console.log("hello git");
+    alert("hello git");
 }
 f()
