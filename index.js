@@ -1,4 +1,4 @@
 function f() {
-    alert("hello git");
+    alert("hello git && gitHub");
 }
 f()
